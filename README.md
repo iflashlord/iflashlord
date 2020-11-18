@@ -7,7 +7,7 @@
 
 - 📝 I regulary write articles on [https://www.iflashlord.com](https://www.iflashlord.com)
 
-- 💬 Ask me about **Javascript** **Swift**  **ActionScript**  **CSS** 
+- 💬 Ask me about **Javascript** **Web Development** **CSS** **ActionScript** 
 
 - 📫 How to reach me **me@iflashlord.com**
 
