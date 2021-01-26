@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Behrouz</h1>
 <h3 align="center">A passionate frontend developer!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iflashlord" alt="iflashlord" /> </p>
+ 
+[![Visits Badge](https://komarev.com/ghpvc/?username=iflashlord)](https://www.iflashlord.com) 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](http://linkedin.com/in/behrouz-pooladrag/) 
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iflashlord) 
 
+ 
 - 👨‍💻 All of my projects are available at [https://www.iflashlord.com](https://www.iflashlord.com)
 
 - 📝 I regulary write articles on [https://www.iflashlord.com](https://www.iflashlord.com)
