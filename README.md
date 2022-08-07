@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Javascript** **Web Development** **CSS** **ActionScript** 
 
-- 📫 How to reach me **me@iflashlord.com**
+- 📫 How to reach me **behrouzpc@gmail.com**
 
 - ⚡ Fun fact **Real Legends Never Die!**
 
