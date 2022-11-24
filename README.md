@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Behrouz</h1>
-<h3 align="center">A passionate frontend developer!</h3>
+<h3 align="center">Passionate Front-End Engineer</h3>
 
  
 [![Visits Badge](https://komarev.com/ghpvc/?username=iflashlord)](https://www.behrouz.nl) 
@@ -9,7 +9,7 @@
  
 - 👨‍💻 All of my projects are available at [https://www.behrouz.nl](https://www.behrouz.nl)
 
-- 💬 Ask me about **Javascript** **Web Development** **CSS** **ActionScript** 
+- 💬 Ask me about **Javascript**, **Web Development**, **CSS**, **React**
 
 - 📫 How to reach me **me@behrouz.nl**
 
