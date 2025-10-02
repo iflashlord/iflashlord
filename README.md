@@ -9,8 +9,7 @@
  
 - 👨‍💻 All of my projects are available at [https://www.behrouz.nl](https://www.behrouz.nl)
 
-- 💬 Ask me about **Javascript**, **Web Development**, **CSS**, **React**
-
+- 💬 Ask me about **Software** and **AI**
 - 📫 How to reach me **me@behrouz.nl**
 
 - ⚡ Fun fact **Real Legends Never Die!**
